@@ -65,9 +65,10 @@ Delhi → Chandigarh → Lucknow → Bhopal → Jaipur → Ahmedabad → Mumbai
 ## 🛠️ Technologies Used
 - **Python 3**
 - **Jupyter Notebook**
-- **Matplotlib** – for plotting the route on map
-- **NumPy** – for numerical computations
-- **GeoJSON / GeoPandas** – for India map rendering
+- **Matplotlib** – plotting the route on India map
+- **GeoPandas** – reading India.geojson map data
+- **Pandas** – data handling
+- **ipywidgets** – interactive widgets for visualization
 
 ---
 
