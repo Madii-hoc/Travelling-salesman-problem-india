@@ -1,0 +1,6 @@
+numpy
+matplotlib
+geopandas
+pandas
+ipywidgets
+notebook
